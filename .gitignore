@@ -13,4 +13,4 @@ source_gen.caches
 test_gen
 test_gen.caches
 TEST-*.xml
-junit*.properties
+junit*.propertie
